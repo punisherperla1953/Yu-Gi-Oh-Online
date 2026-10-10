@@ -215,4 +215,4 @@ Yu-Gi-Oh! ONLINE is provided as a complete free version, offering access to all 
 Dive into the world of Yu-Gi-Oh! ONLINE today and challenge players from across the globe. Experience the excitement, strategy, and fun of this captivating card game!
 
 ---
-**Last updated:** 2026-10-10 13:23:15 UTC
+**Last updated:** 2026-10-10 18:17:59 UTC
